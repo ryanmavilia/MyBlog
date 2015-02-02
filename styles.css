@@ -1,0 +1,38 @@
+body{
+  font-family: Helvetica, sans-serif;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:0px;
+  margin-bottom:0px;}
+header {
+  text-align: center;
+}
+a {
+  color: white;
+}
+a:hover{
+  color: #CCC;
+}
+h1 {
+  font-size: 70px;
+}
+h2{
+  font-size: 36px;
+  text-decoration:underline;
+}
+ul {
+  padding: 10px;
+  background: rgba(0,0,0,0.5);
+}
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+
+}
+article {
+  max-width: 800px;
+  padding: 20px;
+  margin: 0 auto;
+  display:block;
+  font-size:20px;
+}
